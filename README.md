@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm Dylan Hardy, an undergraduate student passionate about technology and computer engineering. Currently pursuing a degree in Computer Science with a concentration on Engineering. I am focused on developing a deep understanding of both hardware and software systems. As I work toward becoming a professional computer engineer, I am honing my skills in areas such as embedded systems, programming, hardware design, and digital electronics. I’m always eager to learn new technologies, improve my skills, and collaborate on projects that challenge me. Feel free to explore my work, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
 
 - 🔭 I’m currently working on an **iPhone Fitness Application**
-- 🌱 I’m currently learning **Parallel Programming**
+- 🌱 I’m currently studying **Parallel Programming**
 
 ---
 ### 🧰 Languages and Tools
@@ -48,9 +48,9 @@ I'm Dylan Hardy, an undergraduate student passionate about technology and comput
 <img align="left" alt="Windows" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/windows.svg" />
 <img align="left" alt="Apple" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/apple.svg" />
 
-<br />
+<br /><br />
 
-#
+# 
 
 ### Employer?
 > [!IMPORTANT]  
