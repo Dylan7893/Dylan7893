@@ -48,7 +48,7 @@ I'm Dylan Hardy, an undergraduate student passionate about technology and comput
 <img align="left" alt="Windows" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/windows.svg" />
 <img align="left" alt="Apple" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/apple.svg" />
 
-<br /><br />
+<br /><br /><br />
 
 # 
 
