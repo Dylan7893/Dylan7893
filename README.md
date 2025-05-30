@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 # 🏋🏼  About Me
 **`Computer Engineer`**
 
-I'm Dylan Hardy, an undergraduate student passionate about technology and computer engineering. Currently pursuing a degree in Computer Science with a concentration on Engineering. I am focused on developing a deep understanding of both hardware and software systems. As I work toward becoming a professional computer engineer, I am honing my skills in areas such as embedded systems, programming, hardware design, and digital electronics. I’m always eager to learn new technologies, improve my skills, and collaborate on projects that challenge me. Feel free to explore my work, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
+I’m Dylan Hardy, a Morehead State University graduate passionate about technology and computer engineering. During my time in Morehead, I earned a Bachelor of Science degree in Computer Science with a concentration in Engineering. I am focused on developing a deep understanding of both hardware and software systems. As I work toward becoming a professional computer engineer, I am honing my skills in areas such as embedded systems, programming, hardware design, and digital electronics. I’m always eager to learn new technologies, improve my skills, and collaborate on projects that challenge me. Feel free to explore my work, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
 
 - 🔭 I’m currently working on an **iPhone Fitness Application**
 - 🌱 I’m currently studying **Parallel Programming**
-
 
 
 
